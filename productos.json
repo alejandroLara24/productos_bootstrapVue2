@@ -1,0 +1,22 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "name": "Televisión",
+      "units": 1,
+      "price": 220
+    },
+    {
+      "id": 2,
+      "name": "IPad",
+      "units": 1,
+      "price": 200
+    },
+    {
+      "name": "IPhone",
+      "units": 2,
+      "price": 50,
+      "id": 3
+    }
+  ]
+}
